@@ -1,0 +1,13 @@
+br\com\globo\response\json\Feed.class
+br\com\globo\response\json\Item.class
+br\com\globo\response\json\RSSResponseJson.class
+br\com\globo\entidades\ObjectFactory.class
+br\com\globo\entidades\Rss$Channel$Image.class
+br\com\globo\entidades\Rss$Channel.class
+br\com\globo\entidades\Rss$Channel$Item.class
+br\com\globo\entidades\Description.class
+br\com\globo\service\FeedService.class
+br\com\globo\service\AplicationFeedService.class
+br\com\globo\entidades\Rss.class
+br\com\globo\controller\CrawlerController.class
+br\com\globo\teste\TesteServico.class
